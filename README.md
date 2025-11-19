@@ -11,7 +11,7 @@ or compile with `make` and run `./tictactoe`
 Main use is to provide another file of study
 to people interested in prolog and logic programming.
 
-The code is commeneted quite extensively.
+The code is commented quite extensively.
 Hope you find some use out of it.
 
 ## License
